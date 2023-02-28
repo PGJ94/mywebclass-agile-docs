@@ -1,18 +1,15 @@
-# Theme 1.0: Project Setup
+# Theme 1.0: MyWebClass.org Project - Building Website
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+Our goal is to use lean and agile methodologies in creating a prominent online presence.
+This method will ultimately guide to establish strong foundation in our web project. From the initiatives
+provided, we can efficiently and rapidly establish a strong foundation that meets the business needs
+throughout the project's lifespan, allowing us to maintain success in the long-term
+
 ## Initiative(s)
-
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
-
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+* [DevOps](/Users/alexjang/PycharmProjects/mywebclass-agile-docs/documentation/theme_1/initiatives/initiatives_1.md)
+* [Project Website Development](/Users/alexjang/PycharmProjects/mywebclass-agile-docs/documentation/theme_1/initiatives/initiative_template_PGJ_2.md)
+* [Legal Requirement](/Users/alexjang/PycharmProjects/mywebclass-agile-docs/documentation/theme_1/initiatives/initiative_template_PGJ_2.md)
 
 ## Test plan
-How will this be tested?
+* User Analytics - Use website analytics to track user behavior and engagement with personalization features, such as the number of users who create profiles or use the job recommendation feature.
+* Pilot testing - Conduct pilot tests with a small group of users to gather feedback on personalization features before launching them to a wider audience
