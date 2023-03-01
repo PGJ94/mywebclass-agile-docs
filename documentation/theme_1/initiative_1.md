@@ -7,6 +7,7 @@ Goals
 * To increasing collaboration and communication between development and operations teams.
 * To enhance the quality and reliability of software products.
 * To automate the software development process wherever possible
+* Usage of Google Analytics and Passing the GDPR Regulation
 
 Scope
 * Integrating tools and technologies to support the DevOps process
@@ -50,11 +51,11 @@ Team
 * QA engineer
 
 ## Test Plan
-* Integration Testing - is an important step in the software development process as it helps to identify defects early on, which can be more difficult and expensive to fix later in the development cycle. It also helps to ensure that the overall system behaves as expected and meets the requirements and specifications of the stakeholders.
-* Compliance Testing - software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements.
+* Unit Tests - These tests are used to test individual code modules or functions in isolation, without any external dependencies. They help to catch any defects early on in the development process and ensure that code behaves as expected.
+* Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements.
 
 ## Measuring Effectiveness
-* Traffic and Engagement - Measures the amount of traffic and engagement the website receives. By using Google Analytics, the development team can track the website's performance and make adjustments to increase traffic and engagement.
+* Deployment Frequency - This KPI measures how frequently new code changes are deployed to production. A high deployment frequency indicates that the DevOps process is efficient in delivering new features and bug fixes to the website.
 
 # List epics related to this theme
 1. [Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline](/documentation/theme_1/epic_1.md)

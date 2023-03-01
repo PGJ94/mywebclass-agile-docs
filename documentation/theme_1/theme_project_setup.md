@@ -13,7 +13,7 @@ Google Analytics and GDPR regulation.
 
 ## Test Plan
 * Functional Testing - This involves testing the website's functionality as a whole, including testing user interactions and the user interface. This can be done manually or through automated testing tools
-* Compliance Testing - software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements.
+* Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements.
 
 ## Measuring Effectiveness
 * Traffic and Engagement - Measures the amount of traffic and engagement the website receives. By using Google Analytics, the development team can track the website's performance and make adjustments to increase traffic and engagement.
