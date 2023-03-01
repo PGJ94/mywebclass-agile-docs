@@ -21,3 +21,10 @@ Status
 
 Notes
 * The designer will work with the development team to ensure that the recommended changes can be implemented efficiently and effectively
+
+## Test Plan
+* Image Loading Speed Test - Load the website with the original images.
+* Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
+
+## Measuring Effectiveness
+* Web Load Time - The time it takes for the page to load completely. This metric can be measured using tools like Google PageSpeed Insights, GTmetrix, and Pingdom.
