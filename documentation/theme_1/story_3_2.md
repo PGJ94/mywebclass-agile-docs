@@ -16,7 +16,7 @@ The order history page is only accessible to authenticated customers.
 * 
 * Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
 
-## Measuring Effectiveness
+## Measuring Effectiveness 
 
 ## Tasks related to this story
 1. [Optimize website images for faster loading](/documentation/theme_1/task_3_1.md)
