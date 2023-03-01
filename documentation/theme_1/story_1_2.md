@@ -17,4 +17,4 @@ The pipeline should be well-documented and easy to maintain, to ensure that any 
 * Notification frequency - To make sure that the pipeline is sending notications to the team as expected, through this, we can measure the number of notifications sent to the team during a specific period
 
 # Tasks related to this story
-1. [Set up pipeline to trigger on code repository changes](/documentation/theme_1/task_1_2.md)
+1. [Set up pipeline notifications for build and deployment failures](/documentation/theme_1/task_1_2.md)
