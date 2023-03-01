@@ -1,20 +1,36 @@
-"Title of the Epic"
+## Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline
 
-Description: [A brief description of the epic]
+Description 
+* Setting up a CI/CD pipeline for the website, this will create automation for building a deploying process,improve efficiency, and reduce errors
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals
+* Automate the build and deployment process
+* Reduce errors and improve efficiency
+* Facilitate collaboration among team members
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories
+* The pipeline should be set up to trigger automatically whenever changes are made to the code repository
+* The pipeline should be set up to notify the team of any failures or errors during the build or deployment process
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies
+* Availability of the tech stack being used
+* Availability of the selected CI/CD tool
+* Availability of teamwork
 
-Risks: [List the potential risks and mitigation strategies]
+Risks
+* Integration issues with the tech stack and the CI/CD tool
+* Technical issues during the setup process
+* Lack of familiarity with the selected CI/CD tool
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort
+* 2-4 weeks depending on team size and experience
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value
+* Increased efficiency, improved quality, greater Agility, enhanced security for users
 
-Priority: [Assign a priority to the epic]
+Priority
+* Automation
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [The pipeline should be set up to trigger automatically whenever changes are made to the code repository](/documentation/theme_1/story_1_1.md)
+2. [The pipeline should be set up to notify the team of any failures or errors during the build or deployment process](/documentation/theme_1/story_1_2.md)
