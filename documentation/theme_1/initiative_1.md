@@ -1,4 +1,4 @@
-# Initiative 1: DevOps
+# Initiative 1: Incorporating DevOps to the Web
 Description
 * Software development methodology that emphasizes collaboration, communication, and integration between development and operations teams to improve the speed and quality of delivering software
 
@@ -12,6 +12,7 @@ Goals
 Scope
 * Integrating tools and technologies to support the DevOps process
 * Establishing standard for collaboration, communication, and automation.
+* Meeting regulations
 
 Outcomes
 * Software delivery improvement
@@ -57,5 +58,5 @@ Team
 ## Measuring Effectiveness
 * Deployment Frequency - This KPI measures how frequently new code changes are deployed to production. A high deployment frequency indicates that the DevOps process is efficient in delivering new features and bug fixes to the website.
 
-# List epics related to this theme
+## List epics related to this theme
 1. [Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline](/documentation/theme_1/epic_1.md)
