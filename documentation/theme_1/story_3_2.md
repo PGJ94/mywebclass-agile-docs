@@ -1,22 +1,21 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+"As a user, I want to be notified if my personal data is being shared with third parties"
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+User receives a notification when their personal data is being shared with third parties.
+Notification includes information on what personal data is being shared, with whom it is being shared, and the purpose for sharing.
+Notification is triggered whenever the user's personal data is shared with a third party, regardless of whether the sharing is automatic or initiated by the user.
+Notification is delivered through a prominent and easily accessible channel, such as email, mobile notification, or within the user's account dashboard.
+Users have the ability to control their notification preferences for data sharing events.
+Notification preferences can be updated at any time, and the system reflects the updated preferences immediately.
+Notification system is reliable and accurate, with no false positives or false negatives.
 
 ## Test Plan
-* 
+* Performance Testing - Conduct load testing and measure response time, throughput, and resource utilization to ensure the website loads quickly and smoothly even during peak traffic
 * Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
 
 ## Measuring Effectiveness 
+* User satisfaction - Conduct user surveys or interviews to gauge user satisfaction with the notification system. Ask questions about the clarity of the notifications and how useful they are.
 
 ## Tasks related to this story
-1. [Optimize website images for faster loading](/documentation/theme_1/task_3_1.md)
+1. [Optimizing Notifications to Users](/documentation/theme_1/task_3_2.md)

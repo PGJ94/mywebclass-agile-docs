@@ -1,21 +1,32 @@
-Task Title: [Short, descriptive title for the task]
+Task Title
+* Develop and implement a notification system
 
-User Story: [Reference the user story that this task supports]
+User Story
+* "As a user, I want to be notified if my personal data is being shared with third parties"
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description
+* The task involves developing and implementing a notification system that sends alerts to users when their personal data is shared with third parties.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate
+* 20 hours or more depending on assignee
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To
+* Website developer
+* Website designer
+* UI/UX
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority
+* Medium, because not every data notifications can be sent to the users
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status
+* In Progress
 
-Notes: [Include]
+Notes
+* This task may require collaboration with the UI/UX team to ensure that the notification system is user-friendly and easy to use
 
 ## Test Plan
-* 
+* Notification Trigger Test - Verify that a notification is triggered whenever personal data is shared with a third party.
 * Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
 
 ## Measuring Effectiveness
+* User Feedback - After the notification system is implemented, gather feedback from users about their experience with it.
