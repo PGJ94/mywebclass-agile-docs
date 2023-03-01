@@ -1,27 +1,45 @@
-"Title of the Epic"
+# Effectively Meeting Data Privacy Measures
 
-Description: [A brief description of the epic]
+Description
+* Ensure that the website is effectively meeting data privacy measures to safeguard personal data and comply with data privacy regulations 
+* Involves the implementing processes and systems that enable the website to handle personal data with care and security
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals
+* Establish effective data privacy policies and procedures
+* Implement systems and processes to ensure compliance with data privacy regulations
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories
+* As a user, I want to the know how much of my information is being recorded
+* As a user, I want to be notified if my personal data is being shared with third parties
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies
+* Compliance with data privacy regulations and laws
+* Cooperation from team members who are experience in the legal requirements
 
-Risks: [List the potential risks and mitigation strategies]
+Risks
+* Non-compliance with data privacy regulations can result in legal and financial penalties
+* Poor handling of personal data
+* Not being informed about legal regulations
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort
+* Size and complexity of the organization
+* Existing data privacy measures in place
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value
+* Ensuring compliance with data privacy regulations and building customer trust and loyalty
+* Reducing the risk of legal and financial penalties and improves the website reputation
 
-Priority: [Assign a priority to the epic]
+Priority
+* High, as non-compliance with data privacy regulations can have serious consequences for the website
 
 ## Test Plan
-* 
+* Cookie tracking Test - Verify that cookie tracking is compliant with data privacy regulations and that users are given the option to opt-out of tracking
 * Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
 
 ## Measuring Effectiveness
+* User feedback - Gathering feedback from users can be an effective way to assess the effectiveness of data privacy measures
+* Data accuracy - Measuring the accuracy of personal data collected by the website can help assess the effectiveness of data privacy measures
 
 ## List stories related to this theme
-1. [Story 1](/documentation/theme_1/story_3_1.md)
-2. [Story 1](/documentation/theme_1/story_3_2.md)
+1. [As a user, I want to the know how much of my information is being recorded](/documentation/theme_1/story_3_1.md)
+2. [As a user, I want to be notified if my personal data is being shared with third parties](/documentation/theme_1/story_3_2.md)

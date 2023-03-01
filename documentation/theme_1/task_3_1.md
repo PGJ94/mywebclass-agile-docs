@@ -1,21 +1,36 @@
-Task Title: [Short, descriptive title for the task]
+Task Title
+* Develop and execute automated tests to verify the accuracy of the data displayed to the user
 
-User Story: [Reference the user story that this task supports]
+User Story
+* "As a user, I want to the know how much of my information is being recorded"
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description
+* The task involves developing and executing automated tests to verify the accuracy of the data displayed to the user
+* The acceptance criteria for this task include:
+  * All data displayed to the user is accurate and up-to-date
+  * Any changes to the data are reflected in the display immediately
+  * The data displayed to the user matches the data stored in the system
+    
+Dependencies
+* The task depends on having a clear understanding of the data elements collected and stored for each user and the format in which the data is stored.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate
+* 8 hours or more depending on assignee
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To
+* Legal consultant
+* Website developer
+* Website designer
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority
+* High again because it has to do with user privacy data
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
+Status
+* In progress
 
 ## Test Plan
-* 
+* Data update test - Checks that any changes made to the data are reflected in the display immediately.
 * Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
 
 ## Measuring Effectiveness
+Business impact - Measuring the impact of the automated tests on the business, like improved customer satisfaction or reduced support requests related to data accuracy
