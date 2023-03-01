@@ -1,7 +1,7 @@
-## Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline
+## CI/CD Pipeline processing
 
 Description 
-* Setting up a CI/CD pipeline for the website, this will create automation for building a deploying process,improve efficiency, and reduce errors
+* Create automation for building a deploying process,improve efficiency, and reduce errors
 
 Goals
 * Automate the build and deployment process
