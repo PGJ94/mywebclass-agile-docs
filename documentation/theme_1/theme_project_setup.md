@@ -6,7 +6,7 @@ provided, we can efficiently and rapidly establish a strong foundation that meet
 throughout the project's lifespan, allowing us to maintain success in the long-term
 
 ## Initiative(s)
-* [DevOps](/theme_1/initiative_1.md)
+* [DevOps](theme_1/initiative_1.md)
 * [Project Website Development](/theme_1/initiative_2.md)
 * [Legal Requirement](/theme_1/initiative_3.md)
 
