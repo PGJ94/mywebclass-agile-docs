@@ -1,5 +1,5 @@
 Task Title
-* Optimize website images for faster loading
+* Reducing Page Load Time
 
 User Story
 * As a user, I want the website to load quickly and smoothly to access the information I need efficiently

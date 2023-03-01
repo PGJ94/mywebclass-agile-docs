@@ -1,4 +1,4 @@
-# Maximizing Website Potential
+# Maximizing Website Potential by Increasing Speed
 
 Description: 
 * Improve the overall website performance and user experience by optimizing the website's loading speed, ensuring responsiveness, improving usability, and enhancing the visual appeal of the website.

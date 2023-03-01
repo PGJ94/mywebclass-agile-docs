@@ -13,4 +13,4 @@ The navigation system should be visible and accessible on all pages of the websi
 * Website Analytics - Website analytics can provide information on how users navigate the website
 
 # Tasks related to this story
-1. [??????](/documentation/theme_1/task_2_2.md)
+1. [Evaluate and Improve Website Navigation System](/documentation/theme_1/task_2_2.md)
