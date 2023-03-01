@@ -6,9 +6,9 @@ provided, we can efficiently and rapidly establish a strong foundation that meet
 throughout the project's lifespan, allowing us to maintain success in the long-term
 
 ## Initiative(s)
-* [DevOps](theme_1/initiative_1.md)
-* [Project Website Development](/theme_1/initiative_2.md)
-* [Legal Requirement](/theme_1/initiative_3.md)
+* [DevOps](documentation/theme_1/initiative_1.md)
+* [Project Website Development](documentation/theme_1/initiative_2.md)
+* [Legal Requirement](documentation/theme_1/initiative_3.md)
 
 ## Test plan
 * User Analytics - Use website analytics to track user behavior and engagement with personalization features, such as the number of users who create profiles or use the job recommendation feature.
