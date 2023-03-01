@@ -50,4 +50,4 @@ Team:
 * QA engineer
 
 # List epics related to this theme
-1. [?????](/Users/alexjang/PycharmProjects/mywebclass-agile-docs/documentation/theme_1/initiatives/epic_PGJ.md[epic_PGJ.md](epic_PGJ.md))
+1. [?????](/documentation/theme_1/epic_1.md)
