@@ -23,8 +23,8 @@ Notes
 * This task is critical to improving the website's loading speed and providing a better user experience. It is essential to ensure that the images are optimized without compromising their quality.
 
 ## Test Plan
-* Image Loading Speed Test - Load the website with the original images.
+* Responsive Design Testing - This test checks how well the website responds to different screen sizes and devices, ensuring that the navigation system is easily accessible and functional on all platforms.
 * Compliance Testing - Software testing that involves testing a software application or system to ensure that it complies with specific regulations, standards, or requirements
 
 ## Measuring Effectiveness
-* Web Load Time - The time it takes for the page to load completely. This metric can be measured using tools like Google PageSpeed Insights, GTmetrix, and Pingdom.
+* Bounce Rate - This measures the percentage of users who leave the website after viewing only one page

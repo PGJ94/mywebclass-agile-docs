@@ -16,5 +16,5 @@ And the pipeline should notify the relevant stakeholders if any errors or issues
 ## Measuring Effectiveness
 * Pipeline success rate - Measures the percentage of times the pipeline successfully triggers and deploys the updated code to the designated environment. A high success rate indicates that the pipeline is functioning effectively, while a low success rate may indicate issues with the pipeline setup or configuration.
 
-# Tasks related to this story
+## Tasks related to this story
 1. [Set up pipeline to trigger on code repository changes](/documentation/theme_1/task_1_1.md)

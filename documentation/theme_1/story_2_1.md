@@ -18,5 +18,5 @@ Regular monitoring and testing should be done to ensure that the website continu
 ## Measuring Effectiveness
 * Page Load Time - The time it takes for the page to load completely. This metric can be measured using tools like Google PageSpeed Insights, GTmetrix, and Pingdom.
 
-# Tasks related to this story
+## Tasks related to this story
 1. [Optimize website images for faster loading](/documentation/theme_1/task_2_1.md)
