@@ -1,5 +1,5 @@
 Task Title
-* Deployment failure notifications process creation
+* Set up pipeline notifications for build and deployment failures
 
 User Story
 * "As a user, the pipeline should be set up to notify the team of any failures or errors during the build or deployment process"

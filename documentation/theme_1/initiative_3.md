@@ -1,4 +1,4 @@
-# Initiative 3: Legal Compliance for Website Development
+# Initiative 3: Legal Requirement
 
 Description
 * Making sure that all legal requirements related to website development and operation are met. This includes compliance with laws related to data privacy, intellectual property, accessibility, and other relevant regulations.

@@ -1,5 +1,5 @@
 Task Title
-* Automating Code Deployment
+* Set up pipeline to trigger on code repository changes
 
 User Story
 * As a user, the pipeline should be set up to trigger automatically whenever changes are made to the code repository

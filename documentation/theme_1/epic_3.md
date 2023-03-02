@@ -1,4 +1,4 @@
-# Effectively Meeting Data Privacy Measures
+# Improve Data Privacy Measures for Website Users
 
 Description
 * Ensure that the website is effectively meeting data privacy measures to safeguard personal data and comply with data privacy regulations 

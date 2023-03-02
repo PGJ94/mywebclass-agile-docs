@@ -1,4 +1,4 @@
-# Initiative 1: Incorporating DevOps to the Web
+# Initiative 1: DevOps
 Description
 * Software development methodology that emphasizes collaboration, communication, and integration between development and operations teams to improve the speed and quality of delivering software
 

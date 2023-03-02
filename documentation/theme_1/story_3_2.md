@@ -18,4 +18,4 @@ Notification system is reliable and accurate, with no false positives or false n
 * User satisfaction - Conduct user surveys or interviews to gauge user satisfaction with the notification system. Ask questions about the clarity of the notifications and how useful they are.
 
 ## Tasks related to this story
-1. [Optimizing Notifications to Users](/documentation/theme_1/task_3_2.md)
+1. [Develop and implement a notification system](/documentation/theme_1/task_3_2.md)
