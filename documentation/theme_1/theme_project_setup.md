@@ -1,4 +1,5 @@
 # Theme 1.0: MyWebClass.org Project - Building Website
+Add your NJIT user ID in this title block as well as the link from readme.md to better indicate this is your version.
 ## Overview
 Our goal is to use lean and agile methodologies in creating a prominent online presence.
 This method will ultimately guide to establish strong foundation in our web project. From the initiatives
