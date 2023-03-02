@@ -59,4 +59,4 @@ Team
 * Deployment Frequency - This KPI measures how frequently new code changes are deployed to production. A high deployment frequency indicates that the DevOps process is efficient in delivering new features and bug fixes to the website.
 
 ## List epics related to this theme
-1. [Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline](epic_1.md)
+1. [Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline](/documentation/theme_1/epic_1.md)
