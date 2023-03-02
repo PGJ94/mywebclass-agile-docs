@@ -7,9 +7,12 @@ throughout the project's lifespan, allowing us to maintain success in the long-t
 Google Analytics and GDPR regulation.
 
 ## Initiative(s)
-* [DevOps](/documentation/theme_1/initiative_1.md)
-* [Project Website Development](/documentation/theme_1/initiative_2.md)
-* [Legal Requirement](/documentation/theme_1/initiative_3.md)
+* [DevOps](initiative_1.md)
+* [Project Website Development](initiative_2.md)
+* [Legal Requirement](initiative_3.md)
+
+I updated the above links to work, they did not work for me. When the file you are linking to is in the same folder as where linking from, you don't need a path.
+It might also make more sense to have sub folders for initiatives, epics, stories, etc. 
 
 ## Test Plan
 * Functional Testing - This involves testing the website's functionality as a whole, including testing user interactions and the user interface. This can be done manually or through automated testing tools
