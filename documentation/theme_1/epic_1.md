@@ -1,4 +1,4 @@
-## CI/CD Pipeline processing
+## Set up Continuous Integration and Continuous Deployment (CI/CD) pipeline
 
 Description 
 * Create automation for building a deploying process,improve efficiency, and reduce errors
