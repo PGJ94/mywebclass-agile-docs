@@ -7,7 +7,7 @@ throughout the project's lifespan, allowing us to maintain success in the long-t
 Google Analytics and GDPR regulation.
 
 ## Initiative(s)
-* [DevOps](/documentation/theme_1/initiative_1.md)
+* [DevOps](initiative_1.md)
 * [Project Website Development](/documentation/theme_1/initiative_2.md)
 * [Legal Requirement](/documentation/theme_1/initiative_3.md)
 
