@@ -12,7 +12,7 @@ Goals
 User Stories
 * As a user, I want the website to load quickly and smoothly to access the information I need efficiently.
 * As a user, I want the website to have a clear and intuitive navigation system to easily find the information I need.
-
+## MDEllis73 user stories should be short simple features or pieces of functionality. Small in scope and can be completed in a single sprint.
 Dependencies
 * Availability of the development team and resources
 * Availability of relevant data and analytics to inform the optimization process.
