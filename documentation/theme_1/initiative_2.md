@@ -44,6 +44,8 @@ Assumptions
 * Availability of necessary technology and tools
 * Availability of internal and external resources for design and development
 
+## MDEllis73 expand on what technology and tools are required to complete this initiative.
+
 Risks
 * Unforeseen technical issues
 * Poor user experience leading to low website traffic and engagement
