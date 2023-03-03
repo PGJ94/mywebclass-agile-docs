@@ -19,4 +19,4 @@ Regular monitoring and testing should be done to ensure that the website continu
 * Page Load Time - The time it takes for the page to load completely. This metric can be measured using tools like Google PageSpeed Insights, GTmetrix, and Pingdom.
 
 ## Tasks related to this story
-1. [Reducing Page Load Time](/documentation/theme_1/task_2_1.md)
+1. [Reducing Page Load Time](task_2_1.md)

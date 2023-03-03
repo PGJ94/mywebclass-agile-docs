@@ -19,4 +19,4 @@ The website must inform the user if there are any changes made to the privacy po
 User engagement - Tracking how often users are accessing the information about their recorded data.
 
 ## Tasks related to this story
-1. [Develop and execute automated tests to verify the accuracy of the data displayed to the user](/documentation/theme_1/task_3_1.md)
+1. [Develop and execute automated tests to verify the accuracy of the data displayed to the user](task_3_1.md)

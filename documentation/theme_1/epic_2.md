@@ -39,5 +39,5 @@ Priority
 * User satisfaction - tracking user satisfaction through surveys or feedback forms. You can ask users to rate the website's performance and user experience before and after implementing the changes, and compare the results.
 
 ## List stories related to this theme
-1. [As a user, I want the website to load quickly and smoothly to access the information I need efficiently](/documentation/theme_1/story_2_1.md)
-2. [As a user, I want the website to have a clear and intuitive navigation system to easily find the information I need](/documentation/theme_1/story_2_2.md)
+1. [As a user, I want the website to load quickly and smoothly to access the information I need efficiently](story_2_1.md)
+2. [As a user, I want the website to have a clear and intuitive navigation system to easily find the information I need](story_2_2.md)

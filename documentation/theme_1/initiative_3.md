@@ -65,7 +65,7 @@ Team
 User Satisfaction - Conduct surveys to understand if users feel secure and confident while using the website after implementing necessary security and privacy measures.
 
 ## List epics related to this theme
-1. [Improve Data Privacy Measures for Website Users](/documentation/theme_1/epic_3.md)
+1. [Improve Data Privacy Measures for Website Users](epic_3.md)
 
 ## MDEllis73 On slack, professor mentioned that students are putting too much information on these plans. Look at his post at 3:18 on Tuesday the 28th. He pretty much breaks down what he is expecting.
 

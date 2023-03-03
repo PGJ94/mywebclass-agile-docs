@@ -41,5 +41,5 @@ Priority
 * Data accuracy - Measuring the accuracy of personal data collected by the website can help assess the effectiveness of data privacy measures
 
 ## List stories related to this theme
-1. [As a user, I want to the know how much of my information is being recorded](/documentation/theme_1/story_3_1.md)
-2. [As a user, I want to be notified if my personal data is being shared with third parties](/documentation/theme_1/story_3_2.md)
+1. [As a user, I want to the know how much of my information is being recorded](story_3_1.md)
+2. [As a user, I want to be notified if my personal data is being shared with third parties](story_3_2.md)
