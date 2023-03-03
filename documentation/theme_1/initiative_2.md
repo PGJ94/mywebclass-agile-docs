@@ -73,4 +73,4 @@ Team
 * User Engagement - Measuring the level of user engagement through metrics such as page views, bounce rates, time on site, and click-through rates can help assess the effectiveness of the website in capturing and retaining users.
 
 ## List epics related to this theme
-1. [Maximizing Website Potential by Increasing Speed](/documentation/theme_1/epic_2.md)
+1. [Maximizing Website Potential by Increasing Speed](epic_2.md)
